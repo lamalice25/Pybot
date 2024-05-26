@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: Windows-latests
+    runs-on: ubuntu-latests
     strategy:
       fail-fast: false
       matrix:
